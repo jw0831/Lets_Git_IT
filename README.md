@@ -6,7 +6,7 @@
 git switch -C master origin/master
 ```
 
-- 위 명령어를 입력하면 모든 branch 를 최기화 시켜준다.
+- 위 명령어를 입력하면 모든 branch 를 초기화 시켜준다.
 
 
 
